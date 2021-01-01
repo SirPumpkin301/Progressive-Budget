@@ -10,7 +10,7 @@
 
 - compressed CSS and stored in ‘dist’ folder/wired up to index.html
 
-- The app is deployed to Heroku [Heroku](https://sirpumpkin-budget-app.herokuapp.com/)
+- The app is deployed to [Heroku](https://sirpumpkin-budget-app.herokuapp.com/)
 
 ## Description
 
